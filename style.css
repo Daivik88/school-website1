@@ -1,0 +1,26 @@
+body {
+    text-align: center
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+marquee {
+    background-color: aqua;
+}
+
+#principal {
+    width: 250px;
+}
+
+.icon-bar {
+    height: 10px;
+    width: 50px
+}
+
+#pee {
+    text-align: left;
+}
